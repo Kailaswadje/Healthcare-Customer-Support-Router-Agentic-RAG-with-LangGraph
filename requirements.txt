@@ -1,0 +1,13 @@
+langchain==0.3.20
+langchain-openai==0.3.9
+langchain-community==0.3.20
+langgraph==0.3.18
+langchain-chroma==0.2.2
+pydantic>=2.0.0
+tqdm>=4.66.0
+gdown>=5.2.0
+ipywidgets>=8.1.0
+jupyter-ui-poll==1.0.0
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=7.0.0
